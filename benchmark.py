@@ -31,6 +31,7 @@ IMAGES = [
     ("Small (320x240)",   "small.jpg"),
     ("Medium (1280x720)", "medium.jpg"),
     ("Large (1920x1080)", "large.jpg"),
+    ("Huge (3840×2160)", "huge.jpg")
 ]
 
 COLORS = {
